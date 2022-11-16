@@ -2,15 +2,13 @@
 Data of the Paper
 
 The data of PPI download from three databases: 
-PRIN(http://bis.zju.edu.cn/prin/) : PRIN_data_deal.csv
-RicePPINet(http://netbio.sjtu.edu.cn): RicePPINET_data_deal.csv
-STRING(https://cn.string-db.org): STRING_data_deal.txt
+PRIN(http://bis.zju.edu.cn/prin/).
+RicePPINet(http://netbio.sjtu.edu.cn).
+STRING(https://cn.string-db.org).
 
-Co_expression constructed by RNA-seq obtained from ncbi
-MIC between Genes : MIC_Relation_rnaseq0.5-co_expression.txt
-Pearson between Genes : Relation_rnaseq0.5-co_expression.txt
+Co_expression constructed by RNA-seq obtained from ncbi.
 
-The drought genes obtained from China Rice Data Center : nai_drought_genes.csv
+The drought genes obtained from China Rice Data Center.
 
 
 
