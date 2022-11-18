@@ -4,7 +4,7 @@ Data of the Paper
 The data of PPI download from three databases: 
 PRIN(http://bis.zju.edu.cn/prin/)： PRIN_data_deal.csv
 RicePPINet(http://netbio.sjtu.edu.cn)： RicePPINET_data_deal.csv
-STRING(https://cn.string-db.org/cgi/download?sessionId=bNjzN9zZTSdk&species_text=Oryza+sativa)：   4530.protein.links.v11.5.txt.gz
+STRING(https://cn.string-db.org/cgi/download?sessionId=bNjzN9zZTSdk)：   4530.protein.links.v11.5.txt.gz
 Because the data is too large, you can download it from the website by yourself. The biological selection is Oryza sativa
 
 Co_expression constructed by RNA-seq obtained from ncbi： tqnnew_drought.csv
