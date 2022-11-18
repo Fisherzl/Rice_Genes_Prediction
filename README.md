@@ -14,6 +14,6 @@ The drought genes obtained from China Rice Data Center： nai_drought_genes.csv 
 
 
 The Code to deal with these data:  <br>
-deal data.R     #deal with the PPI data    <br>
-Test_Code.R     #deal with intersection of two network  <br>
-R packages_Test.R  #LOOCV  and predict potential genes  <br>
+deal with the PPI data:   deal data.R    <br>
+deal with intersection of two network:    Test_Code.R   <br>
+LOOCV  and predict potential genes :     R packages_Test.R  <br>
