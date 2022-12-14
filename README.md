@@ -11,7 +11,9 @@ Co_expression constructed by RNA-seq obtained from ncbi： rice_drought_RNA_seq_
 
 The drought genes obtained from China Rice Data Center： known_drought_stress_related_genes.csv  <br>
 
+Differentially expressed genes： Rna-seq_Differential_expression_Select.csv    <br>
 
+The top 30% MIC values genes: myrice_drought_rnamic30.csv    <br>
 
 The Code to deal with these data:  <br>
 deal with the PPI data:   Fusion_of_Multi-source_PPI_data.R    <br>
